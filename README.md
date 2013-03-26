@@ -11,6 +11,11 @@ Who needs this?
 - Any first-time user of bitcoin, who wishes to avoid the lengthy block chain download through the p2p network.
 
 Instructions:
+- Download the block archive 
+- blocks.zip (5.97 GB)
+https://mega.co.nz/#!3EUFQKIC!WJrgUy4bLkev92nCuhu9_QBTme4ldyYhjZ2IlaKKL5A
+last updated: 3/26/2013
+
 - Unzip and copy blk*.dat files into your bitcoin data directory "C:\Users\*username*\Appdata\Roaming\bitcoin\blocks"
 - Remove any database/log* files from your bitcoin data directory 
 - Run bitcoin or bitcoind
